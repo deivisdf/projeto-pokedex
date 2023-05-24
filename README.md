@@ -4,3 +4,5 @@ Projeto de desenvolvimento utilizando Javascript para construir uma pokedex cons
 
 ## Veja o sistema funcionando
 
+![](assets/images/pokedex.gif)
+
