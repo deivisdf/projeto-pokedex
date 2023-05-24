@@ -4,6 +4,7 @@ Projeto de desenvolvimento utilizando Javascript para construir uma pokedex cons
 
 ## Melhorias
 1- Ao clicar no Pokemon podemos ver uma janela modal com os detalhes de seus **Stats** e **Abilities**
+
 2 - Ao rolar a tela o sistema carrega automaticamente mais 10 pokemons
 
 ## Como Testar?
